@@ -1,0 +1,5 @@
+The first step to start the Bug bounty is that you should have a decent amount of knowledge about the kali linux and how to use the tools in it .
+however i going tell how to use the tools to safely scan the website for any vulnerbilities.
+SO Firstly we have to install the kali linux and a virtual machine in our system and start running it 
+Then we have to open the terminal in the kali and use nmap 
+using nmap in itself is a great challenge as we have to scan without causing any trouble to the server and got suspected 
